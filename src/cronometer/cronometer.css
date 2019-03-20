@@ -1,0 +1,22 @@
+.Cronometer{
+    padding: 20px;
+    border: 1px solid #8e9090;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.Cronometer-Buttons button{
+    padding:20px 30px;
+    font-weight: 400;
+    border-radius: 10px;
+    border: 0px solid;
+    margin: 0 20px;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+
+.Cronometer-Value{
+    margin-top: 20px;
+    font-size: 200px;
+}

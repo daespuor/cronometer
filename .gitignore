@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 package-lock.json
+id_rsa_cron.*
+id_rsa_cron
